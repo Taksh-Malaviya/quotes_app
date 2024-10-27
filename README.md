@@ -1,16 +1,21 @@
-# quotes_app
+# Quotes App
 
-A new Flutter project.
+A Flutter app that brings inspiration to your fingertips! Explore a curated collection of quotes and share your favorites with friends.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Discover Quotes**: Browse a rich collection of quotes across various themes.
+- **Favorites**: Save your top quotes for quick access.
+- **Share**: Easily share quotes on social media.
+- **Daily Inspiration**: Get a new quote delivered to you every day!
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow these steps to get the app running locally:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/quotes-app.git
+cd quotes-app
+
+flutter pub get
